@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "jupyterlab-in-platform-support",
+  "description": "jupyterlab-in-platform-support settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
