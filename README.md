@@ -1,6 +1,6 @@
 # jupyterlab_in_platform_support
 
-[![Github Actions Status](https://github.com/github_username/jupyterlab-in-platform-support/workflows/Build/badge.svg)](https://github.com/github_username/jupyterlab-in-platform-support/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github_username/jupyterlab-in-platform-support/main?urlpath=lab)
+[![Github Actions Status](https://github.com/Navteca/jupyterlab-in-platform-support-jl3/workflows/Build/badge.svg)](https://github.com/Navteca/jupyterlab-in-platform-support-jl3/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github_username/jupyterlab-in-platform-support/main?urlpath=lab)
 A JupyterLab extension.
 
 This extension is composed of a Python package named `jupyterlab_in_platform_support`
