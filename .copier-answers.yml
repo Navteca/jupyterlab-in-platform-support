@@ -9,6 +9,6 @@ kind: server
 labextension_name: jupyterlab-in-platform-support
 project_short_description: A JupyterLab extension.
 python_name: jupyterlab_in_platform_support
-repository: https://github.com/Navteca/jupyterlab-in-platform-support
+repository: https://github.com/Navteca/jupyterlab-in-platform-support-jl4
 test: true
 

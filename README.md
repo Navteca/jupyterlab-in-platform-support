@@ -1,6 +1,6 @@
 # jupyterlab_in_platform_support
 
-[![Github Actions Status](https://github.com/Navteca/jupyterlab-in-platform-support/workflows/Build/badge.svg)](https://github.com/Navteca/jupyterlab-in-platform-support/actions/workflows/build.yml)
+[![Github Actions Status](https://github.com/Navteca/jupyterlab-in-platform-support-jl4/workflows/Build/badge.svg)](https://github.com/Navteca/jupyterlab-in-platform-support-jl4/actions/workflows/build.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Navteca/jupyterlab-in-platform-support/main?urlpath=lab)
 
 
